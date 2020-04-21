@@ -7,5 +7,5 @@
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
 
 
-const token= 'Njk3NzUyODg4ODcyNTM0MDE2.Xp6kSA.jhVk89ygGTi1frKxrpCY5X5gDs4';
+const token= 'Njk3NzUyODg4ODcyNTM0MDE2.Xp641g.dKthpiL91O7TnmY1qrfd9lRLR9c';
 bot.login(process.env.token);
