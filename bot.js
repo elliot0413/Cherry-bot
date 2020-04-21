@@ -8,5 +8,4 @@ const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
 
 
 const token= 'Njk3NzUyODg4ODcyNTM0MDE2.Xp6kSA.jhVk89ygGTi1frKxrpCY5X5gDs4';
-bot.login(process.env.token
-}
+bot.login(process.env.token);
