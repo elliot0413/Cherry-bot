@@ -15,5 +15,6 @@ Files.initStandalone();
 process.on('message', function(content) {
 	Files.initBotTest(content);
 });
-
+const token= 'Njk3NzUyODg4ODcyNTM0MDE2.Xp6kCQ.tTQk2SYTo12Lf1vCqwOzqI7PBKU';
+bot.login(process.env.token
 }
