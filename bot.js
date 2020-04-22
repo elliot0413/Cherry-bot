@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
-import BOT_TOKEN from config
+import os
 
 access_token = os.env["BOT_TOKEN];
 bot.login(access_token);
