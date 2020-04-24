@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"안녕","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"${member}야 안녕","storage":"0","varName2":"","name":"Send Message"}]}]
